@@ -1,7 +1,6 @@
 .footer {
-  background-color: #faedcd;
   color: black;
+  background: #111827; /* Tailwind's bg-gray-900 */
   text-align: center;
   padding: 1.5rem;
-  margin-top: 4rem;
 }
