@@ -1,0 +1,11 @@
+.top-image {
+  overflow: hidden;
+  display: flex;  
+  
+}
+.top-image img {
+  width: 69vw;
+  height: 100%;
+  object-fit: contain; /* or 'contain' if you want full image shown */
+}
+
